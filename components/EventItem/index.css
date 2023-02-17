@@ -1,0 +1,20 @@
+.item {
+  width: 45%;
+  margin: 10px;
+}
+.item-img {
+  width: 100%;
+  border-width: 0px;
+}
+.item-head {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+.item-location {
+  color: #ffffff;
+  font-size: 20px;
+
+  font-family: 'Roboto';
+}
