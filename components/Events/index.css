@@ -1,0 +1,70 @@
+.bg-cont {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
+.events-card {
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+  background-color: #475569;
+}
+.events {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.list-events {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+}
+.active-events-card {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 40vw;
+}
+.no {
+  color: #323f4b;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.act-logo1 {
+  height: 200px;
+  width: 200px;
+}
+.no1 {
+  color: #64748b;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.act-card {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.act-logo {
+  height: 50px;
+  margin: 5px;
+}
+.no-desc {
+  color: #3a4b63;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.sct-button {
+  background-color: #0967d2;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 5px;
+  align-self: stretch;
+}
